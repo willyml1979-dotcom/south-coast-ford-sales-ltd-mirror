@@ -1,6 +1,6 @@
 {
   "dealership": "South Coast Ford Sales Ltd",
-  "generated_at": "2026-09-26T11:57:58",
+  "generated_at": "2026-10-08T14:52:43",
   "vehicle_count": 106,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,9 @@
       "price": 6990.0,
       "price_currency": "CAD",
       "odometer_km": 139189,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2016MINICooper Clubman",
@@ -30,7 +32,9 @@
       "price": 15990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2017FordFocus",
@@ -44,7 +48,9 @@
       "price": 12990.0,
       "price_currency": "CAD",
       "odometer_km": 96662,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2018FordF-150",
@@ -57,7 +63,9 @@
       "price": 33990.0,
       "price_currency": "CAD",
       "odometer_km": 156669,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2018Land RoverEvoque",
@@ -71,7 +79,9 @@
       "price": 26990.0,
       "price_currency": "CAD",
       "odometer_km": 78542,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2018RAM1500",
@@ -84,7 +94,9 @@
       "price": 24990.0,
       "price_currency": "CAD",
       "odometer_km": 119840,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2021FordF-150",
@@ -98,7 +110,9 @@
       "price": 36990.0,
       "price_currency": "CAD",
       "odometer_km": 118524,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2021FordRanger",
@@ -112,7 +126,9 @@
       "price": 36990.0,
       "price_currency": "CAD",
       "odometer_km": 89910,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2021FordRanger",
@@ -125,7 +141,9 @@
       "price": 28990.0,
       "price_currency": "CAD",
       "odometer_km": 118381,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2021KiaSeltos",
@@ -138,7 +156,9 @@
       "price": 19990.0,
       "price_currency": "CAD",
       "odometer_km": 102808,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2022DodgeChallenger",
@@ -151,7 +171,9 @@
       "price": 64990.0,
       "price_currency": "CAD",
       "odometer_km": 38933,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2022FordMustang Mach-E",
@@ -165,7 +187,9 @@
       "price": 46990.0,
       "price_currency": "CAD",
       "odometer_km": 59662,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2022GMCSierra 1500",
@@ -177,7 +201,9 @@
       "price": 48990.0,
       "price_currency": "CAD",
       "odometer_km": 51741,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2023DodgeHornet",
@@ -191,7 +217,9 @@
       "price": 29990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2023FordEscape",
@@ -205,7 +233,9 @@
       "price": 36990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2023FordF-350",
@@ -218,7 +248,9 @@
       "price": 53990.0,
       "price_currency": "CAD",
       "odometer_km": 65348,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024FordEscape",
@@ -232,7 +264,9 @@
       "price": 37690.0,
       "price_currency": "CAD",
       "odometer_km": 12346,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024FordF-350",
@@ -246,7 +280,9 @@
       "price": 102990.0,
       "price_currency": "CAD",
       "odometer_km": 55240,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024FordRanger",
@@ -259,7 +295,9 @@
       "price": 39990.0,
       "price_currency": "CAD",
       "odometer_km": 8838,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024Polestar2",
@@ -272,7 +310,9 @@
       "price": 39990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024Toyota4Runner",
@@ -285,7 +325,9 @@
       "price": 56990.0,
       "price_currency": "CAD",
       "odometer_km": 36641,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025FordBronco Sport",
@@ -299,7 +341,9 @@
       "price": 38990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025FordF-150 Lightning",
@@ -312,7 +356,9 @@
       "price": 84390.0,
       "price_currency": "CAD",
       "odometer_km": 28680,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverick",
@@ -326,7 +372,9 @@
       "price": 41990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025NissanKicks Play",
@@ -339,7 +387,9 @@
       "price": 24990.0,
       "price_currency": "CAD",
       "odometer_km": 38447,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025NissanKicks Play",
@@ -352,7 +402,9 @@
       "price": 24990.0,
       "price_currency": "CAD",
       "odometer_km": 36492,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -366,7 +418,9 @@
       "price": 80285.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -380,7 +434,9 @@
       "price": 57990.0,
       "price_currency": "CAD",
       "odometer_km": 5606,
-      "condition": "used"
+      "condition": "used",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco",
@@ -393,7 +449,9 @@
       "last_verified": "2026-09-26T05:41:53",
       "price": 89385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2024FordMustang",
@@ -406,7 +464,9 @@
       "last_verified": "2026-09-26T05:42:05",
       "price": 72240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025FordE-Transit Cargo Van",
@@ -419,7 +479,9 @@
       "last_verified": "2026-09-26T05:42:16",
       "price": 79240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2025FordF-150",
@@ -432,7 +494,9 @@
       "last_verified": "2026-09-26T05:42:24",
       "price": 83150.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -446,7 +510,9 @@
       "price": 55290.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -460,7 +526,9 @@
       "price": 57805.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -474,7 +542,9 @@
       "price": 59335.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -488,7 +558,9 @@
       "price": 44585.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -501,7 +573,9 @@
       "last_verified": "2026-09-26T05:43:18",
       "price": 51415.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -514,7 +588,9 @@
       "last_verified": "2026-09-26T05:43:27",
       "price": 54385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -527,7 +603,9 @@
       "last_verified": "2026-09-26T05:43:40",
       "price": 87720.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -541,7 +619,9 @@
       "price": 64295.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -554,7 +634,9 @@
       "last_verified": "2026-09-26T05:44:00",
       "price": 99785.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -567,7 +649,9 @@
       "last_verified": "2026-09-26T05:44:08",
       "price": 112435.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -580,7 +664,9 @@
       "last_verified": "2026-09-26T05:44:16",
       "price": 94025.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -593,7 +679,9 @@
       "last_verified": "2026-09-26T05:44:27",
       "price": 71305.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -607,7 +695,9 @@
       "price": 74180.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -621,7 +711,9 @@
       "price": 62345.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -635,7 +727,9 @@
       "price": 74295.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -649,7 +743,9 @@
       "price": 74895.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -662,7 +758,9 @@
       "last_verified": "2026-09-26T05:45:19",
       "price": 86410.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -676,7 +774,9 @@
       "price": 89255.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -690,7 +790,9 @@
       "price": 81560.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -704,7 +806,9 @@
       "price": 80960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -718,7 +822,9 @@
       "price": 80960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -732,7 +838,9 @@
       "price": 79850.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -746,7 +854,9 @@
       "price": 89025.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -760,7 +870,9 @@
       "price": 75890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -774,7 +886,9 @@
       "price": 86875.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -788,7 +902,9 @@
       "price": 82610.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -802,7 +918,9 @@
       "price": 85525.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -816,7 +934,9 @@
       "price": 86975.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -830,7 +950,9 @@
       "price": 86725.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -844,7 +966,9 @@
       "price": 83410.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -858,7 +982,9 @@
       "price": 83985.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -871,7 +997,9 @@
       "last_verified": "2026-09-26T05:47:50",
       "price": 84375.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -885,7 +1013,9 @@
       "price": 93665.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -898,7 +1028,9 @@
       "last_verified": "2026-09-26T05:48:08",
       "price": 116495.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -912,7 +1044,9 @@
       "price": 96865.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -925,7 +1059,9 @@
       "last_verified": "2026-09-26T05:48:28",
       "price": 96770.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -939,7 +1075,9 @@
       "price": 100470.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -953,7 +1091,9 @@
       "price": 112900.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -967,7 +1107,9 @@
       "price": 120018.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -981,7 +1123,9 @@
       "price": 97715.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -994,7 +1138,9 @@
       "last_verified": "2026-09-26T05:49:38",
       "price": 50945.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1008,7 +1154,9 @@
       "price": 47295.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1022,7 +1170,9 @@
       "price": 50495.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1036,7 +1186,9 @@
       "price": 50195.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1050,7 +1202,9 @@
       "price": 46495.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1064,7 +1218,9 @@
       "price": 45395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1078,7 +1234,9 @@
       "price": 44595.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1091,7 +1249,9 @@
       "last_verified": "2026-09-26T05:50:50",
       "price": 42460.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1104,7 +1264,9 @@
       "last_verified": "2026-09-26T05:50:57",
       "price": 54645.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -1117,7 +1279,9 @@
       "last_verified": "2026-09-26T05:51:06",
       "price": 53045.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1130,7 +1294,9 @@
       "last_verified": "2026-09-26T05:51:19",
       "price": 62730.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1144,7 +1310,9 @@
       "price": 49235.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1158,7 +1326,9 @@
       "price": 50585.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1172,7 +1342,9 @@
       "price": 55090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1186,7 +1358,9 @@
       "price": 51385.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1199,7 +1373,9 @@
       "price": 55890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1212,7 +1388,9 @@
       "price": 55890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1224,7 +1402,9 @@
       "last_verified": "2026-09-26T05:52:22",
       "price": 57090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -1236,7 +1416,9 @@
       "last_verified": "2026-09-26T05:52:30",
       "price": 53090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -1250,7 +1432,9 @@
       "price": 53570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -1264,7 +1448,9 @@
       "price": 81170.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1278,7 +1464,9 @@
       "price": 56610.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1292,7 +1480,9 @@
       "price": 65565.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1305,7 +1495,9 @@
       "last_verified": "2026-09-26T05:53:30",
       "price": 84415.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1319,7 +1511,9 @@
       "price": 63585.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1333,7 +1527,9 @@
       "price": 57085.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1346,7 +1542,9 @@
       "last_verified": "2026-09-26T05:54:00",
       "price": 83015.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1360,7 +1558,9 @@
       "price": 59360.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -1374,7 +1574,9 @@
       "price": 50175.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordSuper Duty",
@@ -1387,7 +1589,9 @@
       "last_verified": "2026-09-26T05:54:30",
       "price": 104070.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -1401,7 +1605,9 @@
       "price": 83485.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -1414,7 +1620,9 @@
       "last_verified": "2026-09-26T05:54:55",
       "price": 87115.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -1428,7 +1636,9 @@
       "price": 86030.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     },
     {
       "name": "2027FordBronco Sport",
@@ -1441,7 +1651,9 @@
       "last_verified": "2026-09-26T05:55:12",
       "price": 55085.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Sechelt",
+      "province": "BC"
     }
   ]
 }
