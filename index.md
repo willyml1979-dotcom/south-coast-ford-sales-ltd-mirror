@@ -1,6 +1,6 @@
 # South Coast Ford Sales Ltd.
 
- dealership in Sechelt. AI-readable inventory mirror, about 108 vehicles.
+ dealership in Sechelt. AI-readable inventory mirror, about 105 vehicles.
 
 - Official website: https://www.southcoastford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/

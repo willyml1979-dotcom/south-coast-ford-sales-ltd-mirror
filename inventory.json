@@ -1,7 +1,7 @@
 {
   "dealership": "South Coast Ford Sales Ltd",
-  "generated_at": "2026-11-17T09:44:14",
-  "vehicle_count": 108,
+  "generated_at": "2026-11-17T10:25:22",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -398,14 +398,6 @@
     },
     {
       "name": "2026FordF-150",
-      "vin": "1FTFW3L89TKD29137",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/05363b572401.html",
-      "condition": "new",
-      "price": 86410.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
       "vin": "1FTFW3LD2TFA12175",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/be845922a651.html",
       "condition": "new",
@@ -418,14 +410,6 @@
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/0862f03ac258.html",
       "condition": "new",
       "price": 81560.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW3L87TKD55803",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/ed3895e2c06a.html",
-      "condition": "new",
-      "price": 80960.0,
       "price_currency": "CAD"
     },
     {
@@ -582,22 +566,6 @@
     },
     {
       "name": "2026FordMaverick",
-      "vin": "3FTTW8J35TRA96098",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/56d627d2f856.html",
-      "condition": "new",
-      "price": 47295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordMaverick",
-      "vin": "3FTTW8J33TRB21564",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/1c371ef373e7.html",
-      "condition": "new",
-      "price": 50495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordMaverick",
       "vin": "3FTTW8JA1TRB28706",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/bcbe677fb23a.html",
       "condition": "new",
@@ -709,6 +677,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026FordMustang Mach-E",
+      "vin": "3FMTK3SU4TMA35016",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/778eada404e9.html",
+      "condition": "new",
+      "price": 55090.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026FordMustang",
       "vin": "1FA6P8TH3T5115551",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/3d376c2138dc.html",
@@ -773,14 +749,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026FordSuper Duty",
-      "vin": "1FDFF6LT7TDA24709",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/4ccd8ce4d506.html",
-      "condition": "new",
-      "price": 104070.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026FordTransit",
       "vin": "1FTBR2C85TKA55418",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/43192611692d.html",
@@ -794,14 +762,6 @@
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/fcb43891b353.html",
       "condition": "new",
       "price": 87115.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordTransit",
-      "vin": "1FDBW3UG5TKB32319",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/d6aee42320ff.html",
-      "condition": "new",
-      "price": 86030.0,
       "price_currency": "CAD"
     },
     {
@@ -837,6 +797,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8HH3VGA07166",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/b2ef48b0813d.html",
+      "condition": "new",
+      "price": 69495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027FordF-150",
       "vin": "1FTFW5LD4VFA34063",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/f9373fe990fb.html",
@@ -850,6 +818,14 @@
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/165bd1a6762d.html",
       "condition": "new",
       "price": 99295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-350",
+      "vin": "2FT8W3BM4VBA18770",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/new/2fed88ed7535.html",
+      "condition": "new",
+      "price": 129749.0,
       "price_currency": "CAD"
     },
     {
