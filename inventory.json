@@ -1,7 +1,7 @@
 {
   "dealership": "South Coast Ford Sales Ltd",
-  "generated_at": "2026-10-26T08:40:57",
-  "vehicle_count": 110,
+  "generated_at": "2026-11-17T09:44:14",
+  "vehicle_count": 108,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,12 +28,16 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016MINICooper Clubman",
-      "vin": "WMWLN5C52G2B35062",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/ab6f4ee225f2.html",
-      "condition": "used",
-      "price": 15990.0,
-      "price_currency": "CAD"
+      "name": "2010FordRanger",
+      "vin": "1FTLR4FE0APA39516",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/3ad888cb2ae0.html",
+      "condition": "used"
+    },
+    {
+      "name": "2013ToyotaSienna",
+      "vin": "5TDDK3DC0DS065399",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/69ca47cdf9e2.html",
+      "condition": "used"
     },
     {
       "name": "2016VolkswagenTouareg",
@@ -80,31 +84,7 @@
       "vin": "3FMCR9B65MRB22783",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/3f196ff0c16e.html",
       "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021FordF-150",
-      "vin": "1FTEW1EP6MFB66381",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/9d66b055e07b.html",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021FordRanger",
-      "vin": "1FTER4FH2MLD11661",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/585e16466c68.html",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021FordRanger",
-      "vin": "1FTER4FH8MLD50268",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/0b41a31a374c.html",
-      "condition": "used",
-      "price": 28990.0,
+      "price": 26990.0,
       "price_currency": "CAD"
     },
     {
@@ -147,14 +127,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023FordEscape",
-      "vin": "1FMCU0E18PUB04477",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/e763cdfba28e.html",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023FordF-150",
       "vin": "1FTFW1E8XPFC71815",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/aff00713e215.html",
@@ -192,6 +164,14 @@
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/ea84f6724479.html",
       "condition": "used",
       "price": 102990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-350",
+      "vin": "1FT8W3BTXREF40983",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/cbeb4af7197f.html",
+      "condition": "used",
+      "price": 91990.0,
       "price_currency": "CAD"
     },
     {
@@ -251,19 +231,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025NissanKicks Play",
+      "vin": "3N1CP5CV1SL488381",
+      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/0025a6d36b09.html",
+      "condition": "used"
+    },
+    {
       "name": "2026FordF-150",
       "vin": "1FTEW2LP4TKD33819",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/ac9c8bb00259.html",
       "condition": "used",
       "price": 57990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW3LDXTFB94336",
-      "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/0dded9cbde94.html",
-      "condition": "used",
-      "price": 79360.0,
       "price_currency": "CAD"
     },
     {
