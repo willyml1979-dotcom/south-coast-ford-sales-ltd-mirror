@@ -1,6 +1,6 @@
 {
   "dealership": "South Coast Ford Sales Ltd",
-  "generated_at": "2026-11-17T10:25:22",
+  "generated_at": "2026-11-18T00:59:20",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -211,7 +211,7 @@
       "vin": "1FT6W3LU6SWG31215",
       "url": "https://willyml1979-dotcom.github.io/south-coast-ford-sales-ltd-mirror/used/6d8f4a4def64.html",
       "condition": "used",
-      "price": 84990.0,
+      "price": 79990.0,
       "price_currency": "CAD"
     },
     {
